@@ -1,0 +1,48 @@
+{
+  "name": "Clash Mini Reborn",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/KuiHRm2.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#56b6e2",
+  "featuredApps": [
+    "com.sheibi.clashmini"
+  ],
+  "apps": [
+    {
+      "name": "CM: Reborn",
+      "bundleIdentifier": "com.sheibi.clashmini",
+      "marketplaceID": "",
+      "developerName": "Clash Mini Reborn Team",
+      "subtitle": "",
+      "localizedDescription": "This app is a private server of the killed Supercell game Clash Mini, allowing you to still play it.",
+      "iconURL": "https://i.imgur.com/NsUDNLM.png",
+      "tintColor": "#07f7d9",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://discord.com/channels/1116020930716651584/1236935976702443521",
+          "size": 434700000,
+          "version": "1.2599.1",
+          "buildVersion": null,
+          "date": "2025-05-30T06:47:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com",
+          "NSCameraUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
+          "NSUserTrackingUsageDescription": "Supercell would like to use your device id, advertising id and ip address and share it to selected ad partners to optimize and serve you ads that you might be interested in!\n\nSupercell will only share this data if you accept and interact with the ads in Clash Mini.\n\nWe may also use and share your device identifiers for fraud detection and prevention purposes. Learn more in https://supr.cl/privacy ."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
